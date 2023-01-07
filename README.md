@@ -1,4 +1,4 @@
 # dubuntu
-ubuntu but on docker lol
+Ubuntu Desktop, on docker
 
 # **⚠ this repo is not being actively worked on**
